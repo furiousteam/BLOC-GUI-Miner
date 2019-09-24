@@ -45,7 +45,7 @@
       "coin_algo": "lethean"
     },
     {
-      "coin_type": "xcash",
+      "coin_type": "x-cash",
       "coin_algo": "cryptonight_v8_double"
     },
     {
@@ -81,7 +81,7 @@
     "graft": true,
     "qrl": true,
     "lethean": true,
-    "xcash": true,
+    "x-cash": true,
     "masari": true,
     "tube": true,
     "aeon": true,
@@ -100,7 +100,7 @@
     "graft": true,
     "qrl": true,
     "lethean": true,
-    "xcash": true,
+    "x-cash": true,
     "masari": true,
     "tube": true,
     "aeon": true,
@@ -138,7 +138,7 @@
     "graft": "graft",
     "qrl": "1",
     "lethean": "lethean",
-    "xcash": "xcash",
+    "x-cash": "x-cash",
     "masari": "masari",
     "tube": "tube",
     "aeon": "aeon",
@@ -157,7 +157,7 @@
     "graft": "GRAFT",
     "qrl": "Quantum Resistant Ledger",
     "lethean": "Lethean",
-    "xcash": "X-CASH",
+    "x-cash": "X-CASH",
     "masari": "Masari",
     "tube": "Tube",
     "aeon": "AEON",
@@ -176,7 +176,7 @@
     "graft": "static/img/coins-icons/graft.png",
     "qrl": "static/img/coins-icons/qrl.png",
     "lethean": "static/img/coins-icons/xcash.png",
-    "xcash": "static/img/coins-icons/lethean.png",
+    "x-cash": "static/img/coins-icons/lethean.png",
     "masari": "static/img/coins-icons/masari.png",
     "tube": "static/img/coins-icons/tube.png",
     "aeon": "static/img/coins-icons/aeon.png",
@@ -195,7 +195,7 @@
     "graft": "GRFT",
     "qrl": "QRL",
     "lethean": "LTHN",
-    "xcash": "XCASH",
+    "x-cash": "XCASH",
     "masari": "MSR",
     "tube": "TUBE",
     "aeon": "AEON",
@@ -214,7 +214,7 @@
     "graft": "grft",
     "qrl": "qrl",
     "lethean": "iz",
-    "xcash": "XCA1",
+    "x-cash": "XCA1",
     "masari": "5",
     "tube": "b",
     "aeon": "W",
@@ -233,7 +233,7 @@
     "graft": "^G([a-zA-Z0-9]{94})$",
     "qrl": "^Q([a-zA-Z0-9]{78})$",
     "lethean": "^iz([a-zA-Z0-9]{95})$",
-    "xcash": "^XCA1([a-zA-Z0-9]{94})$",
+    "x-cash": "^XCA1([a-zA-Z0-9]{94})$",
     "masari": "^5([a-zA-Z0-9]{94})$",
     "tube": "^5([a-zA-Z0-9]{96})$",
     "aeon": "^W([a-zA-Z0-9]{96})$",
@@ -285,7 +285,7 @@
       "image": "static/img/lethean/bg-miner-mining.png", 
       "color": "#0f131c"
     },
-    "xcash": {
+    "x-cash": {
       "image": "static/img/xcash/bg-miner-mining.png", 
       "color": "#1c67a3"
     },
@@ -322,7 +322,7 @@
     "graft": "#fe4200",
     "qrl": "#3db4ff",
     "lethean": "#46bbbd",
-    "xcash": "#f97327",
+    "x-cash": "#f97327",
     "masari": "#51b763",
     "tube": "ffffff",
     "aeon": "61bdd2",
@@ -341,7 +341,7 @@
     "graft": "#23242c",
     "qrl": "#42525d",
     "lethean": "#0f141d",
-    "xcash": "#1189a4",
+    "x-cash": "#1189a4",
     "masari": "#658289",
     "tube": "#007eb9",
     "aeon": "#174450",
@@ -359,7 +359,7 @@
     "graft": "#222",
     "qrl": "#222",
     "lethean": "#222",
-    "xcash": "#222",
+    "x-cash": "#222",
     "masari": "#222",
     "tube": "#222",
     "aeon": "#222",
@@ -378,7 +378,7 @@
     "graft": "static/img/graft/logo.png",
     "qrl": "static/img/qrl/logo.png",
     "lethean": "static/img/lethean/logo.png",
-    "xcash": "static/img/xcash/logo.png",
+    "x-cash": "static/img/xcash/logo.png",
     "masari": "static/img/masari/logo.png",
     "tube": "static/img/tube/logo.png",
     "aeon": "static/img/aeon/logo.png",
@@ -430,7 +430,7 @@
         "title": "Lethean Applications", 
         "link": "https://lethean.io/"
       },
-      "xcash": {
+      "x-cash": {
         "title": "X-CASH Applications", 
         "link": "https://x-network.io/xcash/downloads/"
       },
@@ -467,7 +467,7 @@
     "graft": "https://www.coingecko.com/en/coins/graft-blockchain",
     "qrl": "https://www.coingecko.com/en/coins/quantum-resistant-ledger",
     "lethean": "https://www.coingecko.com/en/coins/lethean",
-    "xcash": "https://www.coingecko.com/en/coins/x-cash",
+    "x-cash": "https://www.coingecko.com/en/coins/x-cash",
     "masari": "https://www.coingecko.com/en/coins/masari",
     "tube": "https://www.coingecko.com/en/coins/bittube",
     "aeon": "https://www.coingecko.com/en/coins/aeon",
@@ -616,7 +616,7 @@
         {"link": "https://t.me/letheanVPN", "img": "static/img/miner/network_icon_telegram.png"}
       ]
     },
-    "xcash": {
+    "x-cash": {
       "title": "Social Network", 
       "links": [
         {"link": "https://discordapp.com/invite/4CAahnd", "img": "static/img/miner/network_icon_discord.png"},
@@ -828,7 +828,7 @@
         {"link": "http://explorer.lethean.io", "text": "- Block Explorer"}
       ]
     },
-    "xcash": {
+    "x-cash": {
       "title": "X-CASH Network", 
       "links": [
         {"link": "https://x-network.io/xcash/", "text": "- Official website"},
@@ -1040,7 +1040,7 @@
         {"icon": "static/img/whatsnext/img-09.png", "title": "Merchants & Services", "text": "Merchants of all kinds have come to value the financial privacy that LTHN brings. <a href=\"https://lethean.io\">Click here</a> to see list of the merchants that we know of that currently accept LTHN for their goods and services."}
       ]
     },
-    "xcash": {
+    "x-cash": {
       "boxes": [
         {"icon": "static/img/whatsnext/img-01.png", "title": "Visit your mining pool to know more", "text": "You get paid out based upon what the pool sets the min payout amount. A pool's min payout amount can vary from pool to pool. Click on the pool link to visit their website."},
         {"icon": "static/img/whatsnext/img-02.png", "title": "Learn more about XCASH", "text": "<a href=\"https://x-network.io/xcash/\">X-CASH</a> is public blockchain network & innovative digital asset powering the X network."},
@@ -1137,7 +1137,7 @@
       "graft": "<iframe src=\"https:\/\/www.cryptunit.com\/widgets\/1.php?coin=18&small=false&transparent=true&black=false\" height=\"270\" width=\"100%\" frameBorder=\"0\" style=\"overflow:hidden;\" scrolling=\"no\" ><\/iframe>",
       "qrl": "<iframe src=\"https:\/\/www.cryptunit.com\/widgets\/1.php?coin=34&small=false&transparent=true&black=false\" height=\"270\" width=\"100%\" frameBorder=\"0\" style=\"overflow:hidden;\" scrolling=\"no\" ><\/iframe>",
       "lethean": "<iframe src=\"https:\/\/www.cryptunit.com\/widgets\/1.php?coin=23&small=false&transparent=true&black=false\" height=\"270\" width=\"100%\" frameBorder=\"0\" style=\"overflow:hidden;\" scrolling=\"no\" ><\/iframe>",
-      "xcash": "<iframe src=\"https:\/\/www.cryptunit.com\/widgets\/1.php?coin=59&small=false&transparent=true&black=false\" height=\"270\" width=\"100%\" frameBorder=\"0\" style=\"overflow:hidden;\" scrolling=\"no\" ><\/iframe>",
+      "x-cash": "<iframe src=\"https:\/\/www.cryptunit.com\/widgets\/1.php?coin=59&small=false&transparent=true&black=false\" height=\"270\" width=\"100%\" frameBorder=\"0\" style=\"overflow:hidden;\" scrolling=\"no\" ><\/iframe>",
       "masari": "<iframe src=\"https:\/\/www.cryptunit.com\/widgets\/1.php?coin=21&small=false&transparent=true&black=false\" height=\"270\" width=\"100%\" frameBorder=\"0\" style=\"overflow:hidden;\" scrolling=\"no\" ><\/iframe>",
       "tube": "<iframe src=\"https:\/\/www.cryptunit.com\/widgets\/1.php?coin=16&small=false&transparent=true&black=false\" height=\"270\" width=\"100%\" frameBorder=\"0\" style=\"overflow:hidden;\" scrolling=\"no\" ><\/iframe>",
       "aeon": "<iframe src=\"https:\/\/www.cryptunit.com\/widgets\/1.php?coin=24&small=false&transparent=true&black=false\" height=\"270\" width=\"100%\" frameBorder=\"0\" style=\"overflow:hidden;\" scrolling=\"no\" ><\/iframe>",
@@ -1200,7 +1200,7 @@
           "image": "https://raw.githubusercontent.com/furiousteam/BLOC-GUI-Miner/master/src/resources/app/static/img/paychange.png",
           "link": "https://paychange.com"
       },
-      "xcash": {
+      "x-cash": {
           "title": "XCASH available soon on:",
           "image": "https://raw.githubusercontent.com/furiousteam/BLOC-GUI-Miner/master/src/resources/app/static/img/paychange.png",
           "link": "https://paychange.com"
