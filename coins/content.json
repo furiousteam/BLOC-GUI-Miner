@@ -175,8 +175,8 @@
     "sumokoin": "static/img/coins-icons/sumokoin.png",
     "graft": "static/img/coins-icons/graft.png",
     "qrl": "static/img/coins-icons/qrl.png",
-    "lethean": "static/img/coins-icons/xcash.png",
-    "x-cash": "static/img/coins-icons/lethean.png",
+    "lethean": "static/img/coins-icons/lethean.png",
+    "x-cash": "static/img/coins-icons/xcash.png",
     "masari": "static/img/coins-icons/masari.png",
     "tube": "static/img/coins-icons/tube.png",
     "aeon": "static/img/coins-icons/aeon.png",
@@ -235,7 +235,7 @@
     "lethean": "^iz([a-zA-Z0-9]{95})$",
     "x-cash": "^XCA1([a-zA-Z0-9]{94})$",
     "masari": "^5([a-zA-Z0-9]{94})$",
-    "tube": "^5([a-zA-Z0-9]{96})$",
+    "tube": "^b([a-zA-Z0-9]{96})$",
     "aeon": "^W([a-zA-Z0-9]{96})$",
     "arqma": "^ar([a-zA-Z0-9]{95})$",
     "iridium": "^ar([a-zA-Z0-9]{97})$"
@@ -324,10 +324,10 @@
     "lethean": "#46bbbd",
     "x-cash": "#f97327",
     "masari": "#51b763",
-    "tube": "ffffff",
-    "aeon": "61bdd2",
-    "arqma": "e2deb8",
-    "iridium": "9f215f"
+    "tube": "#ffffff",
+    "aeon": "#61bdd2",
+    "arqma": "#e2deb8",
+    "iridium": "#9f215f"
   },
   "boxColor": {
     "bloc": "#090a31",
@@ -342,7 +342,7 @@
     "qrl": "#42525d",
     "lethean": "#0f141d",
     "x-cash": "#1189a4",
-    "masari": "#658289",
+    "masari": "#404e51",
     "tube": "#007eb9",
     "aeon": "#174450",
     "arqma": "#3c0f90",
