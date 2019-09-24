@@ -238,7 +238,7 @@
     "tube": "^b([a-zA-Z0-9]{96})$",
     "aeon": "^W([a-zA-Z0-9]{96})$",
     "arqma": "^ar([a-zA-Z0-9]{95})$",
-    "iridium": "^ar([a-zA-Z0-9]{97})$"
+    "iridium": "^ir([a-zA-Z0-9]{97})$"
   },
   "mainBackground": {
     "bloc": {
@@ -322,9 +322,9 @@
     "graft": "#fe4200",
     "qrl": "#3db4ff",
     "lethean": "#46bbbd",
-    "x-cash": "#f97327",
+    "x-cash": "#b34100",
     "masari": "#51b763",
-    "tube": "#ffffff",
+    "tube": "#343434",
     "aeon": "#61bdd2",
     "arqma": "#e2deb8",
     "iridium": "#9f215f"
@@ -341,7 +341,7 @@
     "graft": "#23242c",
     "qrl": "#42525d",
     "lethean": "#0f141d",
-    "x-cash": "#1189a4",
+    "x-cash": "#01232b",
     "masari": "#404e51",
     "tube": "#007eb9",
     "aeon": "#174450",
