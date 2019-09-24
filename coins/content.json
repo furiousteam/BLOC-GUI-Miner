@@ -238,7 +238,7 @@
     "tube": "^b([a-zA-Z0-9]{96})$",
     "aeon": "^W([a-zA-Z0-9]{96})$",
     "arqma": "^ar([a-zA-Z0-9]{95})$",
-    "iridium": "^ir([a-zA-Z0-9]{97})$"
+    "iridium": "^ir([a-zA-Z0-9]{95})$"
   },
   "mainBackground": {
     "bloc": {
@@ -1069,7 +1069,7 @@
     "tube": {
       "boxes": [
         {"icon": "static/img/whatsnext/img-01.png", "title": "Visit your mining pool to know more", "text": "You get paid out based upon what the pool sets the min payout amount. A pool's min payout amount can vary from pool to pool. Click on the pool link to visit their website."},
-        {"icon": "static/img/whatsnext/img-02.png", "title": "Learn more about BitTube", "text": "<a href=\"https://bittubeapp.com\">BitTube</a> iBitTube reshapes how web monetization should work. Browse privately, ad free and support every publisher you visit. Your time powers the new attention economy without compromise."},
+        {"icon": "static/img/whatsnext/img-02.png", "title": "Learn more about BitTube", "text": "<a href=\"https://bittubeapp.com\">BitTube</a> BitTube reshapes how web monetization should work. Browse privately, ad free and support every publisher you visit. Your time powers the new attention economy without compromise."},
         {"icon": "static/img/whatsnext/img-03.png", "title": "AirTime", "text": "<a href=\"https://www.getmasari.org/\">TUBE</a> AirTime rewards you and the publisher while browsing the web. Reward any website, social account and creator with your time and donations."},
         {"icon": "static/img/whatsnext/img-04.png", "title": "Join our amazing community.", "text": "BitTube is nothing without it's amazing and friendly community. Come and socialise with us on the <a href=\"https://github.com/ipbc-dev\">GitHub</a> or <a href=\"https://www.reddit.com/r/BitTube\">Reddit</a>."},
         {"icon": "static/img/whatsnext/img-05.png", "title": "Trading TUBE on exchange", "text": "Buy and Sell TUBE on following exchanges: <ul class=\"list-unstyled\"><li><a href=\"https://tradeogre.com/exchange/BTC-TUBE\">- Tradeogre</a></li><li><a href=\"https://international.bittrex.com/Market/Index?MarketName=BTC-TUBE\">- Bittrex</a></li><li><a href=\"https://www.myqbtc.com/trade?symbol=TUBE_CNYT\">- QBTC</a></li></ul>"},
