@@ -105,7 +105,7 @@ If you would like to contribute to this project by adding or editing a mining po
 
 *Mining BLOC:*
 
-[![BLOC GUI Miner Mining BLOC](https://github.com/furiousteam/BLOC-wiki/raw/master/docs/mining/images/BLOC-GUI-MINER/turtlecoin-mining.png)](https://wiki.bloc.money/mining/bloc-gui-miner-using/)
+[![BLOC GUI Miner Mining BLOC](https://github.com/furiousteam/BLOC-wiki/blob/master/docs/mining/images/BLOC-GUI-MINER/BLOC-GUI-Miner-v0.0.3-BLOC-mining.png)](https://wiki.bloc.money/mining/bloc-gui-miner-using/)
 
 ### **TurtleCoin (TRTL) Mining**
 
@@ -114,7 +114,7 @@ If you would like to contribute to this project by adding or editing a mining po
 
 *Mining TRTL:*
 
-[![BLOC GUI Miner Mining TurtleCoin](DOCS/images/6-MINING-TRTL-BLOC-GUI-Miner-v1.1.2.png)](https://wiki.bloc.money/mining/bloc-gui-miner-mining-turtlecoin/)
+[![BLOC GUI Miner Mining TurtleCoin](https://github.com/furiousteam/BLOC-wiki/raw/master/docs/mining/images/BLOC-GUI-MINER/turtlecoin-mining.png)](https://wiki.bloc.money/mining/bloc-gui-miner-mining-turtlecoin/)
 
 ### **Haven (XHV) Mining**
 
