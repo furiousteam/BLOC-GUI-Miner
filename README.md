@@ -14,16 +14,14 @@ If you want to learn about cryptocurrencies, [mining](https://wiki.bloc.money/mi
 
 [Start mining](https://wiki.bloc.money/mining/bloc-gui-miner-using/#start-mining) today and get rewarded in your favorite cryptocurrency.
 
-## **Previous Updates**
+**Note**: Some antivirus packages detect cryptocurrency miners as malware and will remove the miner as soon as it's started. In order for the BLOC GUI miner to function, you'll need to exclude the miner from being scanned by your antivirus software.
 
-[Previous Updates](DOCS/updates)
-
-## What's New in v1.1.2 ?
+## BLOC GUI Miner Features
 
 - 💎 Built-in latest XMR-STAK & XMRIG
-- ✅ Now support $BLOC $TRTL $XMR $RYO $XHV $SUMO $LOKI $QRL $CCX $GRFT
+- ✅ Now support 17 Cryptocurrencies
 - 🖥 Works on macOS, Windows (7, 8, 10) & Linux x64
-- 🎖 Best Mining Pools built-in
+- 🎖 63 Best Mining Pools built-in
 - ❇️ Change mining pool or coin in 1 click
 - ℹ️ Complete informations about each currency with links
 - 🔸 Easy to use
@@ -31,12 +29,19 @@ If you want to learn about cryptocurrencies, [mining](https://wiki.bloc.money/mi
 - 📊 Mining Stats by Cryptunit
 - ♻️ CPU & GPU Mining
 
+## **Previous Updates**
+
+[Previous Updates](DOCS/updates)
+
 Online Support:
 
 - [Discord](https://discord.gg/5Buudya)
 - [Telegram](https://t.me/bloc_money)
 
 ## **Screenshots**
+
+*GIF*
+![BLOC GUI Miner 20 cryptocurrencies supported](https://github.com/furiousteam/BLOC-wiki/raw/master/docs/mining/images/BLOC-GUI-MINER/SCREEN/BLOC-GUI-MINER-1.1.3-GIF.gif)
 
 *Home*
 
@@ -48,7 +53,7 @@ Online Support:
 
 *Select Coin to Mine*
 
-![BLOC GUI Miner Select coin to mine](DOCS/images/3-MINE-OTHER-CRYPTOCURRENCIES-BLOC-GUI-Miner-v1.1.2.png)
+![BLOC GUI Miner Select coin to mine](https://github.com/furiousteam/BLOC-wiki/raw/master/docs/mining/images/BLOC-GUI-MINER/XMRIG.png)
 
 *Select Mining Pool*
 
@@ -65,15 +70,32 @@ Everyone can add their own cryptocurrency to the BLOC GUI Miner as long as it is
 You can mine the following cryptocurrencies with the BLOC GUI Miner :
 
 - [BLOC.MONEY](https://bloc.money) **(BLOC)**
-- [TurtleCoin](https://turtlecoin.lol) **(TRTL)**
+- [TurtleCoin](https://turtlecoin.lol) **(TRTL)** - *ONLY XMRIG*
 - [RYO](https://ryo-currency.com) **(RYO)**
 - [Haven](https://www.havenprotocol.com) **(XHV)**
 - [Monero](https://www.getmonero.org) **(XMR)**
-- [Loki](https://loki.network) **(LOKI)**
+- [Loki](https://loki.network) **(LOKI)** *ONLY XMRIG*
 - [Sumokoin](https://www.sumokoin.org) **(SUMO)**
 - [GRAFT](https://www.graft.network) **(GRFT)**
-- [Conceal Network](https://conceal.network) **(CCX)**
+- [Conceal Network](https://conceal.network) **(CCX)** *ONLY XMRSTAK*
 - [Quantum Resistant Ledger](https://www.theqrl.org) **(QRL)**
+- [LETHEAN](https://lethean.io) **(LTHN)**
+- [X-CASH](https://www.x-network.io/xcash/) **(XCASH)**
+- [MASARI](https://getmasari.org) **(MSR)**
+- [TUBE](https://bittubeapp.com) **(TUBE)**
+- [AEON](http://www.aeon.cash) **(AEON)**
+- [ARQMA](https://arqma.com) **(ARQ)**
+- [IRIDIUM](https://ird.cash) **(IRD)**
+
+XMR-STAK Version:
+
+![BLOC GUI Miner Mining QRL](https://github.com/furiousteam/BLOC-wiki/raw/master/docs/mining/images/BLOC-GUI-MINER/XMR-STAK.png)
+
+XMRIG Version:
+
+We suggest macOS users to always use XMRIG bundle if possible for a simple installation as XMR-STAK require extra library.
+
+![BLOC GUI Miner Mining QRL](https://github.com/furiousteam/BLOC-wiki/raw/master/docs/mining/images/BLOC-GUI-MINER/XMRIG.png)
 
 If you would like to contribute to this project by adding or editing a mining pool but also to add a new cryptonote currency please checkout the [instructions available](https://github.com/furiousteam/BLOC-GUI-Miner/tree/master/coins).
 
@@ -158,6 +180,94 @@ If you would like to contribute to this project by adding or editing a mining po
 
 [![BLOC GUI Miner Mining QRL](DOCS/images/13-MINING-QRL.png)](https://wiki.bloc.money/mining/bloc-gui-miner-mining-qrl/)
 
+### **Lethean (LTHN) Mining**
+
+[Lethean (LTHN)](https://lethean.io) allow users to quickly and seamlessly use VPN services by choosing an exit node that best suits their needs. Simply download the wallet, add Lethean, and visit the integrated VPN marketplace to begin using the VPN services.
+
+*Mining LTHN:* [How to mine Lethean (LTHN)](https://wiki.bloc.money/mining/bloc-gui-miner-mining-lethean)
+
+[![BLOC GUI Miner Mining Lethean (LTHN)](https://github.com/furiousteam/BLOC-wiki/raw/master/docs/mining/images/BLOC-GUI-MINER/lethean-mining.png)](https://wiki.bloc.money/mining/bloc-gui-miner-mining-lethean)
+
+### **X-CASH (XCASH) Mining**
+
+[X-CASH](https://www.x-network.io/xcash/) **(XCASH)** is public blockchain network & innovative digital asset powering the X network allowing the creation of customizable blockchains secured by a worldwide network.
+
+*Mining XCASH:* [How to mine X-CASH (XCASH) ](https://wiki.bloc.money/mining/bloc-gui-miner-mining-xcash)
+
+[![BLOC GUI Miner Mining](https://github.com/furiousteam/BLOC-wiki/raw/master/docs/mining/images/BLOC-GUI-MINER/xcash-mining.png)](https://wiki.bloc.money/mining/bloc-gui-miner-mining-xcash)
+
+### **TUBE (TUBE) Mining**
+
+[TUBE](https://bittubeapp.com) **(TUBE)** BitTube reshapes how web monetization should work. Browse privately, ad free and support every publisher you visit. Your time powers the new attention economy without compromise. AirTime rewards you and the publisher while browsing the web. Reward any website, social account and creator with your time and donations
+
+*Mining TUBE:* [How to mine TUBE (TUBE) ](https://wiki.bloc.money/mining/bloc-gui-miner-mining-tube)
+
+[![BLOC GUI Miner Mining](https://github.com/furiousteam/BLOC-wiki/raw/master/docs/mining/images/BLOC-GUI-MINER/tube-mining.png)](https://wiki.bloc.money/mining/bloc-gui-miner-mining-tube)
+
+### **Masari (MSR) Mining**
+
+[MASARI](https://getmasari.org) **(MSR)** is a privacy-centric innovative cryptocurrency that allows users to send money around the globe with low fees very quickly. Masari is a fast, fungible, secure, private and soon-to-be scalable currency.
+
+*Mining Masari (MSR) :* [How to mine Masari (MSR)](https://wiki.bloc.money/mining/bloc-gui-miner-mining-masari)
+
+[![BLOC GUI Miner Mining](https://github.com/furiousteam/BLOC-wiki/raw/master/docs/mining/images/BLOC-GUI-MINER/masari-mining.png)](https://wiki.bloc.money/mining/bloc-gui-miner-mining-masari)
+
+### **Iridium (IRD) Mining**
+
+[IRIDIUM](https://ird.cash) **(IRD)** takes advantage of the technology behind CryptoNote by pulling together the best features that privacy coins can offer the world. 
+
+*Mining Iridium (IRD):* [How to mine Iridium (IRD)](https://wiki.bloc.money/mining/bloc-gui-miner-mining-iridium)
+
+[![BLOC GUI Miner Mining](https://github.com/furiousteam/BLOC-wiki/raw/master/docs/mining/images/BLOC-GUI-MINER/iridium-mining.png)](https://wiki.bloc.money/mining/bloc-gui-miner-mining-iridium)
+
+### **ArQmA (ARQ) Mining**
+
+[ARQMA](https://arqma.com) **(ARQ)** the heart of ArQ-Network, which was created by crypto enthusiasts to connect merchants big to small with seamless transactions and minimal fees to zero ! ArQmA creates a full and brilliant currency exchange platform which aims to provide more advanced features than any previously developed protocol.
+
+*Mining ArQmA (ARQ):* [How to mine ArQmA (ARQ)](https://wiki.bloc.money/mining/bloc-gui-miner-mining-arqma)
+
+[![BLOC GUI Miner Mining](https://github.com/furiousteam/BLOC-wiki/raw/master/docs/mining/images/BLOC-GUI-MINER/arqma-mining.png)](https://wiki.bloc.money/mining/bloc-gui-miner-mining-arqma)
+
+### **Aeon (AEON) Mining**
+
+[AEON](http://www.aeon.cash) **(AEON)** is about enabling this era, enabling an age where all people everywhere have the freedom to privately send and receive money with whatever gadget they already own.
+
+*Mining Aeon (AEON):* [How to mine Aeon (AEON)](../mining/BLOC-GUI-Miner-mining-aeon.md)
+
+[![BLOC GUI Miner Mining](https://github.com/furiousteam/BLOC-wiki/raw/master/docs/mining/images/BLOC-GUI-MINER/aeon-mining.png)](https://wiki.bloc.money/mining/bloc-gui-miner-mining-aeon)
+
+## **Supported Miners**
+
+BLOC GUI Miner comes with **XMR-STAK** and **XMRIG** already built-in, including configuration files for CPU and GPU mining in most of the cases.
+
+1. [xmr-stak](https://wiki.bloc.money/mining/xmr-stak-index/) **v2.10.7**
+2. [xmrig](https://wiki.bloc.money/mining/xmrig-index/) **v3.1.2**
+
+## **Downloads Binaries**
+
+Some antivirus packages detect cryptocurrency miners as malware and will remove the miner as soon as it's started. In order for the BLOC GUI miner to function, you'll need to exclude the miner from being scanned by your antivirus software.
+
+- Download and install BLOC GUI Miner for [Windows, Mac and Linux](https://github.com/furiousteam/GUI-miner/releases/latest) from GitHub
+- From the [Download Area](https://bloc.money/download) of BLOC.MONEY
+
+## **PRE Install instruction for macOS with XMR-STAK**
+
+Some libraries are required to be able to use XMR-STAK on macOS.
+
+- Search for terminal on your mac application and open it
+- Type: ```xcode-select --install```
+- Then: ```ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"```
+- Then: ```brew doctor```
+- Then the last one. Copy and paste:
+
+```
+brew install hwloc libmicrohttpd gcc openssl cmake
+cmake . -DOPENSSL_ROOT_DIR=/usr/local/opt/openssl -DCUDA_ENABLE=OFF -DOpenCL_ENABLE=OFF
+make install
+```
+You should now be ready to use the BLOC GUI Miner.
+
+If you do not want to bother with this PRE-installation simply use XMR-RIG version.
 
 ## **Guide**
 
@@ -176,49 +286,15 @@ Make sure to check the guides how to use:
 - [How to mine Loki (LOKI)](https://wiki.bloc.money/mining/BLOC-GUI-Miner-mining-loki/)
 - [How to mine Haven (XHV)](https://wiki.bloc.money/mining/BLOC-GUI-Miner-mining-haven/)
 - [How to mine Graft (GRFT)](https://wiki.bloc.money/mining/BLOC-GUI-Miner-mining-graft/)
+- [How to mine Conceal Network (CCX)](https://wiki.bloc.money/mining/BLOC-GUI-Miner-mining-lethean/)
+- [How to mine Conceal Network (CCX)](https://wiki.bloc.money/mining/BLOC-GUI-Miner-mining-tube/)
+- [How to mine Conceal Network (CCX)](https://wiki.bloc.money/mining/BLOC-GUI-Miner-mining-masari/)
+- [How to mine Conceal Network (CCX)](https://wiki.bloc.money/mining/BLOC-GUI-Miner-mining-iridium/)
+- [How to mine Conceal Network (CCX)](https://wiki.bloc.money/mining/BLOC-GUI-Miner-mining-arqma/)
+- [How to mine Conceal Network (CCX)](https://wiki.bloc.money/mining/BLOC-GUI-Miner-mining-aeon/)
+- [How to mine Conceal Network (CCX)](https://wiki.bloc.money/mining/BLOC-GUI-Miner-mining-xcash/)
 - [How to mine Conceal Network (CCX)](https://wiki.bloc.money/mining/BLOC-GUI-Miner-mining-ccx/)
 - [How to compile the BLOC GUI Miner](https://wiki.bloc.money/mining/BLOC-GUI-Miner-Compile)
-
-## **Downloads Binaries**
-
-Some antivirus packages detect cryptocurrency miners as malware and will remove the miner as soon as it's started. In order for the BLOC GUI miner to function, you'll need to exclude the miner from being scanned by your antivirus software.
-
-- Download and install BLOC GUI Miner for [Windows, Mac and Linux](https://github.com/furiousteam/GUI-miner/releases/latest) from GitHub
-- From the [Download Area](https://bloc.money/download) of BLOC.MONEY
-
-## **Supported Miners**
-
-BLOC GUI Miner comes with **XMR-STAK** and **XMRIG** already built-in, including configuration files for CPU and GPU mining in most of the cases.
-
-1. [xmr-stak](https://wiki.bloc.money/mining/xmr-stak-index/) **v2.10.7**
-2. [xmrig](https://wiki.bloc.money/mining/xmrig-index/) **v3.1.2**
-
-### **XMRSTAK bundle support following coins**
-
-- [BLOC.MONEY](https://bloc.money) **(BLOC)**
-- [RYO](https://ryo-currency.com) **(RYO)**
-- [Haven](https://www.havenprotocol.com) **(XHV)**
-- [Monero](https://www.getmonero.org) **(XMR)**
-- [Sumokoin](https://www.sumokoin.org) **(SUMO)**
-- [GRAFT](https://www.graft.network) **(GRFT)**
-- [Conceal Network](https://conceal.network) **(CCX)**
-- [Quantum Resistant Ledger](https://www.theqrl.org) **(QRL)**
-
-![BLOC GUI Miner Mining QRL](DOCS/images/XMR-STAK.png)
-
-### **XMRIG bundle support following coins**
-
-- [BLOC.MONEY](https://bloc.money) **(BLOC)**
-- [TurtleCoin](https://turtlecoin.lol) **(TRTL)**
-- [RYO](https://ryo-currency.com) **(RYO)**
-- [Haven](https://www.havenprotocol.com) **(XHV)**
-- [Monero](https://www.getmonero.org) **(XMR)**
-- [Loki](https://loki.network) **(LOKI)**
-- [Sumokoin](https://www.sumokoin.org) **(SUMO)**
-- [GRAFT](https://www.graft.network) **(GRFT)**
-- [Quantum Resistant Ledger](https://www.theqrl.org) **(QRL)**
-
-![BLOC GUI Miner Mining QRL](DOCS/images/XMRIG.png)
 
 ## **Compiling on Linux (Ubuntu)**
 

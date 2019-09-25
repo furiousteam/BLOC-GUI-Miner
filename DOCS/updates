@@ -8,14 +8,16 @@
 Update details:
 - Added support for Subo address. SUMOKOIN (SUMO)
 - Updated XMRIG to latest version 3.1.3
+- 63 mining pools added for all coins
+- Now 17 cryptocurrencies supported
 
-Added following currencies:
+Added +7 cryptocurrencies:
 
 - [LETHEAN](https://lethean.io) **(LTHN)**
 - [X-CASH](https://www.x-network.io/xcash/) **(XCASH)**
 - [MASARI](https://getmasari.org) **(MSR)**
 - [TUBE](https://bittubeapp.com) **(TUBE)**
-- [AEON](http://www.aeon.cash) **(BLOC)**
+- [AEON](http://www.aeon.cash) **(AEON)**
 - [ARQMA](https://arqma.com) **(ARQ)**
 - [IRIDIUM](https://ird.cash) **(IRD)**
 
