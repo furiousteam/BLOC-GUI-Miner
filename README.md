@@ -269,7 +269,7 @@ You should now be ready to use the BLOC GUI Miner.
 
 If you do not want to bother with this PRE-installation simply use XMR-RIG version.
 
-## **Guide**
+## **Guides**
 
 Make sure to check the guides how to use:
 
