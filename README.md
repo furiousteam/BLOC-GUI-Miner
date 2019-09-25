@@ -1,6 +1,6 @@
 # **BLOC GUI Miner**
 
-![BLOC GUI Miner Mining QRL](DOCS/images/BLOC-GUI-MINER-1.1.2.jpg)
+![BLOC GUI Miner Mining Cryptocurrency](https://raw.githubusercontent.com/furiousteam/BLOC-wiki/master/docs/mining/images/BLOC-GUI-MINER/SCREEN/BLOC-GUI-MINER-5-CURRENCY-UPDATE-1.1.3.jpg)
 
 [BLOC GUI Miner](https://github.com/furiousteam/BLOC-GUI-Miner) is a beautiful, easy to use, Graphical User interface for mining multiple cryptocurrencies based on cryptonote. The BLOC GUI Miner is easy to use and makes you getting started with mining cryptocurrency on Windows, MacOS and Linux in no time.
 
@@ -8,7 +8,7 @@ It is aimed at getting people that have never tried mining before with a focus o
 
 BLOC GUI Miner support two very popular miner backends: [xmr-stak](https://github.com/fireice-uk/xmr-stak) and [xmrig](https://github.com/xmrig/xmrig)
 
-BLOC GUI Miner comes with **XMR-STAK 2.10.7** and XMRIG **3.1.2** already built-in, including configuration files for CPU and GPU mining in most of the cases.
+BLOC GUI Miner comes with **XMR-STAK 2.10.7** and XMRIG **3.1.3** already built-in, including configuration files for CPU and GPU mining in most of the cases.
 
 If you want to learn about cryptocurrencies, [mining](https://wiki.bloc.money/mining/what-is-mining/) is a great place to start!
 
@@ -241,7 +241,7 @@ If you would like to contribute to this project by adding or editing a mining po
 BLOC GUI Miner comes with **XMR-STAK** and **XMRIG** already built-in, including configuration files for CPU and GPU mining in most of the cases.
 
 1. [xmr-stak](https://wiki.bloc.money/mining/xmr-stak-index/) **v2.10.7**
-2. [xmrig](https://wiki.bloc.money/mining/xmrig-index/) **v3.1.2**
+2. [xmrig](https://wiki.bloc.money/mining/xmrig-index/) **v3.1.3**
 
 ## **Downloads Binaries**
 
