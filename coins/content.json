@@ -67,7 +67,12 @@
     {
       "coin_type": "iridium",
       "coin_algo": "cryptonight_turtle"
+    },
+    {
+      "coin_type": "wownero",
+      "coin_algo": "wownero"
     }
+
   ],
   "xmrigSupport": {
     "bloc": true,
@@ -86,7 +91,8 @@
     "tube": true,
     "aeon": false,
     "arqma": true,
-    "iridium": true
+    "iridium": true,
+    "wownero": true
   },
   "xmrStakSupport": {
     "bloc": true,
@@ -105,7 +111,8 @@
     "tube": true,
     "aeon": false,
     "arqma": false,
-    "iridium": true
+    "iridium": true,
+    "wownero": false
   },
   "xmrigAlgo": {
     "bloc": "cn-heavy/xhv",
@@ -124,7 +131,8 @@
     "tube": "cn-heavy/tube",
     "aeon": "cn-lite/1",
     "arqma": "rx/arq",
-    "iridium": "cn-pico"
+    "iridium": "cn-pico",
+    "wownero": "rx/wow"
   },
   "xmrigVariant": {
     "bloc": "xhv",
@@ -143,7 +151,8 @@
     "tube": "tube",
     "aeon": "aeon",
     "arqma": "arqma",
-    "iridium": "arqma"
+    "iridium": "arqma",
+    "wownero": "wownero"
   },
   "names": {
     "bloc": "BLOC",
@@ -162,7 +171,8 @@
     "tube": "Tube",
     "aeon": "AEON",
     "arqma": "ArQmA",
-    "iridium": "Iridium"
+    "iridium": "Iridium",
+    "wownero": "Wownero"
   },
   "icons": {
     "bloc": "static/img/coins-icons/bloc.png",
@@ -181,7 +191,8 @@
     "tube": "static/img/coins-icons/tube.png",
     "aeon": "static/img/coins-icons/aeon.png",
     "arqma": "static/img/coins-icons/arqma.png",
-    "iridium": "static/img/coins-icons/iridium.png"
+    "iridium": "static/img/coins-icons/iridium.png",
+    "wownero": "static/img/coins-icons/wownero.png"
   },
   "abbreviation": {
     "bloc": "BLOC",
@@ -200,7 +211,8 @@
     "tube": "TUBE",
     "aeon": "AEON",
     "arqma": "ARQ",
-    "iridium": "IRD"
+    "iridium": "IRD",
+    "wownero": "WOW"
   },
   "addressPrefix": {
     "bloc": "abLoc",
@@ -219,7 +231,8 @@
     "tube": "b",
     "aeon": "W",
     "arqma": "ar",
-    "iridium": "ir"
+    "iridium": "ir",
+    "wownero": "W"
   },
   "addressValidation": {
     "bloc": "^abLoc([a-zA-Z0-9]{94}|[a-zA-Z0-9]{182})$",
@@ -238,7 +251,8 @@
     "tube": "^b([a-zA-Z0-9]{96})$",
     "aeon": "^W([a-zA-Z0-9]{96})$",
     "arqma": "^ar([a-zA-Z0-9]{95})$",
-    "iridium": "^ir([a-zA-Z0-9]{95})$"
+    "iridium": "^ir([a-zA-Z0-9]{95})$",
+    "wownero": "^W([a-zA-Z0-9]{94})$"
   },
   "mainBackground": {
     "bloc": {
@@ -306,8 +320,12 @@
       "color": "#141423"
     },
     "iridium": {
-      "image": "static/img/arqma/bg-miner-mining.png", 
+      "image": "static/img/iridium/bg-miner-mining.png", 
       "color": "#a50606"
+    },
+    "wownero": {
+      "image": "static/img/wownero/bg-miner-mining.png", 
+      "color": "#86006e"
     }
   },
   "textColor": {
@@ -327,7 +345,8 @@
     "tube": "#343434",
     "aeon": "#61bdd2",
     "arqma": "#e2deb8",
-    "iridium": "#ffed00"
+    "iridium": "#ffed00",
+    "wownero": "86006e"
   },
   "boxColor": {
     "bloc": "#090a31",
@@ -346,7 +365,8 @@
     "tube": "#007eb9",
     "aeon": "#174450",
     "arqma": "#3c0f90",
-    "iridium": "#dd592c"
+    "iridium": "#dd592c",
+    "wownero": "626262"
   },
   "boxBorder": {
     "bloc": "#222",
@@ -364,7 +384,8 @@
     "tube": "#222",
     "aeon": "#222",
     "arqma": "#222",
-    "iridium": "#222"
+    "iridium": "#222",
+    "wownero": "#222"
   },
   "logo": {
     "bloc": "static/img/miner/miner-big-logo.png",
@@ -383,7 +404,8 @@
     "tube": "static/img/tube/logo.png",
     "aeon": "static/img/aeon/logo.png",
     "arqma": "static/img/arqma/logo.png",
-    "iridium": "static/img/iridium/logo.png"
+    "iridium": "static/img/iridium/logo.png",
+    "wownero": "static/img/wownero/logo.png"
   },
   "downloadPage": {
       "bloc": {
@@ -451,8 +473,12 @@
         "link": "https://arqma.com/download/"
       },
       "iridium": {
-        "title": "Iridium Applications", 
+        "title": "Iridium Applications",
         "link": "https://ird.cash/#custompage1"
+      },
+      "wownero": {
+        "title": "Wownero Applications", 
+        "link": "http://wownero.org/#resources"
       }
   },
   "coinGeckoLinks": {
@@ -472,7 +498,8 @@
     "tube": "https://www.coingecko.com/en/coins/bittube",
     "aeon": "https://www.coingecko.com/en/coins/aeon",
     "arqma": "https://www.coingecko.com/en/coins/arqma",
-    "iridium": "https://www.coingecko.com/en/coins/iridium"
+    "iridium": "https://www.coingecko.com/en/coins/iridium",
+    "wownero": "https://www.coingecko.com/en/coins/wownero"
   },
   "socialLinks": {
     "bloc": {
@@ -694,6 +721,18 @@
         {"link": "https://t.me/joinchat/GizWw0sK9LW8DAu4hAeWnA", "img": "static/img/miner/network_icon_telegram.png"},
         {"link": "https://www.facebook.com/207676106483596", "img": "static/img/miner/network_icon_facbook.png"}
       ]
+    },
+    "wownero": {
+      "title": "Social Network", 
+      "links": [
+        {"link": "https://discordapp.com/invite/sQt74ep", "img": "static/img/miner/network_icon_discord.png"},
+        {"link": "https://bitcointalk.org/index.php?topic=3088712.0", "img": "static/img/miner/network_icon_bitcointalk.png"},
+        {"link": "https://github.com/wownero", "img": "static/img/miner/network_icon_github.png"},
+        {"link": "https://twitter.com/w0wn3r0", "img": "static/img/miner/network_icon_twatter.png"},
+        {"link": "http://wownero.org/", "img": "static/img/miner/network_icon_website.png"},
+        {"link": "https://reddit.com/r/Wownero", "img": "static/img/miner/network_icon_website.png"},
+        {"link": "https://t.me/wownero", "img": "static/img/miner/network_icon_telegram.png"}
+      ]
     }
   },
   "networkLinks": {
@@ -897,6 +936,15 @@
         {"link": "https://explorer.ird.cash/", "text": "- Block Explorer"},
         {"link": "https://wiki.ird.cash", "text": "- Wiki"},
         {"link": "https://ird.cash/market/", "text": "- Market"}
+      ]
+    },
+    "wownero": {
+      "title": "Wownero Network", 
+      "links": [
+        {"link": "http://wownero.org/", "text": "- Official website"},
+        {"link": "https://explore.wownero.com", "text": "- Block Explorer"},
+        {"link": "https://miningpoolstats.stream/wownero", "text": "- Mining Pools"},
+        {"link": "https://github.com/wownero", "text": "- GitHub"}
       ]
     }
   },
@@ -1114,6 +1162,18 @@
         {"icon": "static/img/whatsnext/img-08.png", "title": "Need more help ? We got you covered", "text": "If this is your first time hearing about IRD, we recommend starting by visiting the official <a href=\"https://ird.cash\">ird.cash</a> website but also <a href=\"https://wiki.ird.cash/\">Wiki</a> and read precious informations."},
         {"icon": "static/img/whatsnext/img-09.png", "title": "Merchants & Services", "text": "Merchants of all kinds have come to value the financial privacy that Iridium brings. <a href=\"https://ird.cash\">Click here/a> to see list of the merchants that we know of that currently accept IRD for their goods and services."}
       ]
+    },
+    "wownero": {
+      "boxes": [
+        {"icon": "static/img/whatsnext/img-01.png", "title": "Visit your mining pool to know more", "text": "You get paid out based upon what the pool sets the min payout amount. A pool's min payout amount can vary from pool to pool. Click on the pool link to visit their website."},
+        {"icon": "static/img/whatsnext/img-02.png", "title": "Learn more about Wownero", "text": "<a href=\"http://wownero.org\">Wownero</a>Wownero is a fork of the cryptocurrency Monero with primary alterations."},
+        {"icon": "static/img/whatsnext/img-03.png", "title": "Facts", "text": "Wownero’s emission is capped and supply is finite. Wownero is a fairly launched coin with no premine."},
+        {"icon": "static/img/whatsnext/img-04.png", "title": "Join our amazing community.", "text": "Wownero is nothing without it's amazing and friendly community. Come and socialise with us on the <a href=\"https://t.me/wownero\">Telegram Group</a> and <a href=\"https://reddit.com/r/Wownero\">Reddit</a>."},
+        {"icon": "static/img/whatsnext/img-05.png", "title": "Trading Wownero on exchange", "text": "Buy and Sell Wownero on following exchanges: <ul class=\"list-unstyled\"><li><a href=\"https://tradeogre.com/exchange/BTC-WOW\">- TradeOgre</a></li><li><a href=\"https://www.citex.co.kr/#/home\">- Citex</a></li></ul>"},
+        {"icon": "static/img/whatsnext/img-06.png", "title": "Follow Wownero on social media", "text": "We are updating all our social network regulary, the best way to stay updated with Wownero is to follow us on <a href=\"https://twitter.com/w0wn3r0\">Twitter</a> or <a href=\"https://discordapp.com/invite/sQt74ep\">Discord</a>."},
+        {"icon": "static/img/whatsnext/img-07.png", "title": "Unlike opposing forks", "text": "It’s not a fork of another blockchain. With its own genesis block there is no degradation of privacy caused by ring signatures using different participants for the same transaction outputs."},
+        {"icon": "static/img/whatsnext/img-08.png", "title": "Need more help ? We got you covered", "text": "If this is your first time hearing about Wownero, we recommend starting by visiting the official <a href=\"http://wownero.org\">Wownero.org</a> website but also <a href=\"https://github.com/wownero\">Wownero GitHub</a> and read precious informations."}
+      ]
     }
   },
   "poweredByLinks": {
@@ -1142,7 +1202,8 @@
       "tube": "<iframe src=\"https:\/\/www.cryptunit.com\/widgets\/1.php?coin=16&small=false&transparent=true&black=false\" height=\"270\" width=\"100%\" frameBorder=\"0\" style=\"overflow:hidden;\" scrolling=\"no\" ><\/iframe>",
       "aeon": "<iframe src=\"https:\/\/www.cryptunit.com\/widgets\/1.php?coin=24&small=false&transparent=true&black=false\" height=\"270\" width=\"100%\" frameBorder=\"0\" style=\"overflow:hidden;\" scrolling=\"no\" ><\/iframe>",
       "arqma": "<iframe src=\"https:\/\/www.cryptunit.com\/widgets\/1.php?coin=47&small=false&transparent=true&black=false\" height=\"270\" width=\"100%\" frameBorder=\"0\" style=\"overflow:hidden;\" scrolling=\"no\" ><\/iframe>",
-      "iridium": "<iframe src=\"https:\/\/www.cryptunit.com\/widgets\/1.php?coin=48&small=false&transparent=true&black=false\" height=\"270\" width=\"100%\" frameBorder=\"0\" style=\"overflow:hidden;\" scrolling=\"no\" ><\/iframe>"
+      "iridium": "<iframe src=\"https:\/\/www.cryptunit.com\/widgets\/1.php?coin=48&small=false&transparent=true&black=false\" height=\"270\" width=\"100%\" frameBorder=\"0\" style=\"overflow:hidden;\" scrolling=\"no\" ><\/iframe>",
+      "wownero": "<iframe src=\"https:\/\/www.cryptunit.com\/widgets\/1.php?coin=49&small=false&transparent=true&black=false\" height=\"270\" width=\"100%\" frameBorder=\"0\" style=\"overflow:hidden;\" scrolling=\"no\" ><\/iframe>"
   },
   "newsBox": {
       "bloc": {
@@ -1227,6 +1288,11 @@
       },
       "iridium": {
           "title": "IRD available soon on:",
+          "image": "https://raw.githubusercontent.com/furiousteam/BLOC-GUI-Miner/master/src/resources/app/static/img/paychange.png",
+          "link": "https://paychange.com"
+      },
+      "wownero": {
+          "title": "WOW available soon on:",
           "image": "https://raw.githubusercontent.com/furiousteam/BLOC-GUI-Miner/master/src/resources/app/static/img/paychange.png",
           "link": "https://paychange.com"
       }
