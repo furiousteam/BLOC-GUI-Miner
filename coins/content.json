@@ -84,7 +84,7 @@
     "x-cash": true,
     "masari": true,
     "tube": true,
-    "aeon": true,
+    "aeon": false,
     "arqma": true,
     "iridium": true
   },
@@ -93,7 +93,7 @@
     "turtlecoin": false,
     "ryo": true,
     "haven": true,
-    "monero": true,
+    "monero": false,
     "loki": false,
     "conceal": true,
     "sumokoin": true,
@@ -103,8 +103,8 @@
     "x-cash": true,
     "masari": true,
     "tube": true,
-    "aeon": true,
-    "arqma": true,
+    "aeon": false,
+    "arqma": false,
     "iridium": true
   },
   "xmrigAlgo": {
