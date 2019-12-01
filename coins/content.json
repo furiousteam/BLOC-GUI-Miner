@@ -112,7 +112,7 @@
     "turtlecoin": "argon2/chukwa",
     "ryo": "cn/gpu",
     "haven": "cn-heavy/xhv",
-    "monero": "cn/r",
+    "monero": "rx/0",
     "loki": "rx/loki",
     "conceal": "cn/conceal_xmrig_notsupported",
     "sumokoin": "cn/r",
@@ -123,7 +123,7 @@
     "masari": "cn/half",
     "tube": "cn-heavy/tube",
     "aeon": "cn-lite/1",
-    "arqma": "cn-pico",
+    "arqma": "rx/arq",
     "iridium": "cn-pico"
   },
   "xmrigVariant": {
