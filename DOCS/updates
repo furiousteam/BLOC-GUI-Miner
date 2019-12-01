@@ -1,9 +1,59 @@
 # **BLOC GUI Miner Updates History**
 
+## **v1.1.4**
+
+- *1 December 2019*
+- [BLOC GUI Miner v1.1.4](https://github.com/furiousteam/BLOC-GUI-Miner/releases/tag/1.1.4)
+
+Update Details:
+- Added support for Wownero with XMRIG
+- Disabled AEON mining
+- Updated ArQmA with new mining algorithm Random X ARQ (rx/arq)
+- Updated Monero with new mining algorithm RandomX (rx/0)
+- New logo for Monero
+- This version comes built in with XMRIG v5.0.1 and XMRSTAK v2.10.7
+
+*Supported currencies with XMRIG:*
+
+- Bloc
+- Turtlecoin
+- Ryo
+- Haven
+- Monero
+- Loki
+- Sumokoin
+- Graft
+- Qrl
+- Lethean
+- X-cash
+- Masari
+- Tube
+- Arqma
+- Iridium
+- Wownero
+
+*Supported currencies with XMRSTAK:*
+
+- Bloc
+- Ryo
+- Haven
+- Conceal
+- Sumokoin
+- Graft
+- Qrl
+- Lethean
+- X-cash
+- Masari
+- Tube
+- Iridium
+
+More to come soon.
+__________________________________
+
 ## **v1.1.3**
 
 - *25 September 2019*
-- [BLOC GUI Miner v1.1.1](https://github.com/furiousteam/BLOC-GUI-Miner/releases/tag/1.1.3)
+- [BLOC GUI Miner v1.1.3](https://github.com/furiousteam/BLOC-GUI-Miner/releases/tag/1.1.3)
 
 Update details:
 - Added support for Subo address. SUMOKOIN (SUMO)
@@ -48,7 +98,7 @@ Make sure to check the guides how to use:
 - [How to mine X-CASH (XCASH)](https://wiki.bloc.money/mining/BLOC-GUI-Miner-mining-xcash/)
 - [How to mine Conceal Network (CCX)](https://wiki.bloc.money/mining/BLOC-GUI-Miner-mining-ccx/)
 - [How to compile the BLOC GUI Miner](https://wiki.bloc.money/mining/BLOC-GUI-Miner-Compile)
-
+__________________________________
 
 ## **v1.1.2**
 
@@ -72,7 +122,7 @@ Update details:
 7. Updated XMRIG to latest version 3.1.2
 
 BLOC GUI Miner support mining for 10 cryptocurrencies on Windows, Linux and macOS.
-
+__________________________________
 
 ## **v1.1.1**
 
@@ -83,7 +133,7 @@ Update details:
 - Added price usd for informations section
 - Updated XMR-STAK exact config file to latest 2.10.7
 - Added an experimental functionality to recover when xmr-stak stats stop to restart the miner
-
+__________________________________
 
 ## **v1.0.1**
 
@@ -111,6 +161,7 @@ A lot of updates in this release. BLOC GUI Miner now support
 - 1st pool now automatically selected on 1st run
 - Added simple menu selector in the pool settings. Mining from CPU or GPU. (Coresponding port will be automatically selected on the mining pool.)
 - Fixed infinite GUI errors coming from electron
+__________________________________
 
 ## **v0.0.4**
 
@@ -125,6 +176,7 @@ BLOC GUI Miner v0.0.4 comes with XMR-STAK 2.10.4 or XMRIG 2.14.1 already built-i
 - Updated XMR-STAK with latest official binaries v2.10.4
 - Updated XMRIG with latest official binaries v2.14.1
 - This version should work smoothly. Again we are looking for your feedbacks. This is the most important for us. Feedbacks keep us alive. Thank you.
+__________________________________
 
 ## **v0.0.3**
 
@@ -140,7 +192,7 @@ We spent the last 3 days improving the miner and today we are happy to announce 
 Also there was another problem with macOS users with the last build. We found out that XMR-STAK require Xcode and microhttpd dependencies and this is mandatory. Installing such dependencies can be challenging for some users. For this reason we switched the BLOC GUI Miner macOS version to XMRIG as it is included as a bundle so macOS users will not require to installing anything else beside the actual BLOC GUI Miner.
 
 This version should work smoothly. Again we are looking for your feedbacks. This is the most important for us. Feedbacks keep us alive. Thank you.
-
+__________________________________
 
 ## **v0.0.2**
 
@@ -153,6 +205,7 @@ Everyone can add their favorite cryptocurrency to the BLOC GUI Miner as long as 
 - BLOC.MONEY (BLOC)
 - TurtleCoin (TRTL)
 - RYO (RYO) (Beta Release)
+__________________________________
 
 ## **v0.0.1**
 
