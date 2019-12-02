@@ -252,7 +252,7 @@
     "aeon": "^W([a-zA-Z0-9]{96})$",
     "arqma": "^ar([a-zA-Z0-9]{95})$",
     "iridium": "^ir([a-zA-Z0-9]{95})$",
-    "wownero": "^W([a-zA-Z0-9]{94})$"
+    "wownero": "^W([a-zA-Z0-9]{96})$"
   },
   "mainBackground": {
     "bloc": {
