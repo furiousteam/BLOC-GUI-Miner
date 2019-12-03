@@ -2,7 +2,7 @@
 
 ## **v1.1.4**
 
-- *1 December 2019*
+- *3 December 2019*
 - [BLOC GUI Miner v1.1.4](https://github.com/furiousteam/BLOC-GUI-Miner/releases/tag/1.1.4)
 
 Update Details:
@@ -11,7 +11,7 @@ Update Details:
 - Updated ArQmA with new mining algorithm Random X ARQ (rx/arq)
 - Updated Monero with new mining algorithm RandomX (rx/0)
 - New logo for Monero
-- This version comes built in with XMRIG v5.0.1 and XMRSTAK v2.10.7
+- This version comes built in with XMRIG v5.0.1 and XMRSTAK v2.10.8
 
 *Supported currencies with XMRIG:*
 
