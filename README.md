@@ -8,9 +8,9 @@ BLOC GUI Miner support two very popular miner backends: [xmr-stak](https://githu
 
 BLOC GUI Miner comes with **XMR-STAK 2.10.8** and XMRIG **5.1.0** already built-in, including configuration files for CPU and GPU mining in most of the cases.
 
-If you want to learn about cryptocurrencies, [mining](../mining/What-is-mining.md) is a great place to start!
+If you want to learn about cryptocurrencies, [mining](https://wiki.bloc.money/mining/What-is-mining.md) is a great place to start!
 
-[Start mining](../mining/BLOC-GUI-Miner-using.md#start-mining) today and get rewarded in your favorite cryptocurrency.
+[Start mining](https://wiki.bloc.money/mining/BLOC-GUI-Miner-using.md#start-mining) today and get rewarded in your favorite cryptocurrency.
 
 **Note**: Some antivirus packages detect cryptocurrency miners as malware and will remove the miner as soon as it's started. In order for the BLOC GUI miner to function, you'll need to exclude the miner from being scanned by your antivirus software.
 
@@ -30,7 +30,7 @@ If you want to learn about cryptocurrencies, [mining](../mining/What-is-mining.m
 
 ## **Previous Updates**
 
-[Previous Updates](../mining/BLOC-GUI-Miner-Update.md)
+[Previous Updates](https://wiki.bloc.money/mining/BLOC-GUI-Miner-Update.md)
 
 ### Online Support:
 
@@ -106,7 +106,7 @@ If you would like to contribute to this project by adding or editing a mining po
 
 [BLOC.MONEY](https://bloc.money) is a fast, easy to use and private decentralized cryptocurrency. Send money spacewide, worldwide or locally, immediately and without costly intermediaries using the blockchain technology.
 
-*Mining BLOC:* [How to use the BLOC GUI Miner to mine BLOC](../mining/BLOC-GUI-Miner-using.md)
+*Mining BLOC:* [How to use the BLOC GUI Miner to mine BLOC](https://wiki.bloc.money/mining/BLOC-GUI-Miner-using.md)
 
 [![BLOC GUI Miner Mining BLOC](images/BLOC-GUI-MINER/4-MINING-BLOC-BLOC-GUI-Miner-v1.1.2.png)](https://wiki.bloc.money/mining/bloc-gui-miner-using/)
 
@@ -115,7 +115,7 @@ If you would like to contribute to this project by adding or editing a mining po
 [TurtleCoin](https://github.com/turtlecoin/turtlecoin) is a fast, easy and private cryptocurrency which allows you to send money to friends and businesses.
 *Note*: Mining TurtleCoin only works with XMRIG and support the new Chukwa algorithm.
 
-*Mining TRTL:* [How to mine TurtleCoin (TRTL)](../mining/BLOC-GUI-Miner-mining-turtlecoin.md)
+*Mining TRTL:* [How to mine TurtleCoin (TRTL)](https://wiki.bloc.money/mining/BLOC-GUI-Miner-mining-turtlecoin.md)
 
 [![BLOC GUI Miner Mining TurtleCoin](images/BLOC-GUI-MINER/turtlecoin-mining.png)](https://wiki.bloc.money/mining/bloc-gui-miner-mining-turtlecoin/)
 
@@ -123,7 +123,7 @@ If you would like to contribute to this project by adding or editing a mining po
 
 [Haven](https://www.havenprotocol.com) protocol is a fully decentralized, private, algorithmic stablecoin that can be stored in a Haven wallet which can be seen as a private and decentralized USD-based bank account for everyone.
 
-*Mining XHV:* [How to mine Haven (XHV)](../mining/BLOC-GUI-Miner-mining-haven.md)
+*Mining XHV:* [How to mine Haven (XHV)](https://wiki.bloc.money/mining/BLOC-GUI-Miner-mining-haven.md)
 
 [![BLOC GUI Miner Mining Haven](images/BLOC-GUI-MINER/8-MINING-HAVEN-BLOC-GUI-Miner-v1.1.2.png)](https://wiki.bloc.money/mining/bloc-gui-miner-mining-haven/)
 
@@ -131,7 +131,7 @@ If you would like to contribute to this project by adding or editing a mining po
 
 [Monero](https://www.getmonero.org) Monero is cash for a connected world. It’s fast, private, and secure. With Monero, you are your own bank. You can spend safely, knowing that others cannot see your balances or track your activity.
 
-*Mining XMR:* [How to mine Monero (XMR)](../mining/BLOC-GUI-Miner-mining-monero.md)
+*Mining XMR:* [How to mine Monero (XMR)](https://wiki.bloc.money/mining/BLOC-GUI-Miner-mining-monero.md)
 
 [![BLOC GUI Miner Mining Monero](images/BLOC-GUI-MINER/MONERO-BLOC-GUI-Miner-v1.1.4.png)](https://wiki.bloc.money/mining/bloc-gui-miner-mining-monero/)
 
@@ -139,7 +139,7 @@ If you would like to contribute to this project by adding or editing a mining po
 
 [RYO](https://ryo-currency.com) RYO Currency confidently transact with the highest degree of anonymity.
 
-*Mining RYO:* [How to mine Ryo (RYO)](../mining/BLOC-GUI-Miner-mining-ryo.md)
+*Mining RYO:* [How to mine Ryo (RYO)](https://wiki.bloc.money/mining/BLOC-GUI-Miner-mining-ryo.md)
 
 [![BLOC GUI Miner Mining RYO](images/BLOC-GUI-MINER/7-MINING-RYO-BLOC-GUI-Miner-v1.1.2.png)](https://wiki.bloc.money/mining/bloc-gui-miner-mining-ryo/)
 
@@ -147,7 +147,7 @@ If you would like to contribute to this project by adding or editing a mining po
 
 [Loki](https://loki.network) Loki is a privacy network which will allow users to transact and communicate privately over the internet, providing a suite of tools to help maintain the maximum amount of anonymity possible while browsing, transacting and communicating online..
 
-*Mining LOKI:* [How to mine Loki (LOKI)](../mining/BLOC-GUI-Miner-mining-loki.md)
+*Mining LOKI:* [How to mine Loki (LOKI)](https://wiki.bloc.money/mining/BLOC-GUI-Miner-mining-loki.md)
 
 [![BLOC GUI Miner Mining LOKI](images/BLOC-GUI-MINER/11-MINING-LOKI.png)](https://wiki.bloc.money/mining/bloc-gui-miner-mining-loki/)
 
@@ -155,7 +155,7 @@ If you would like to contribute to this project by adding or editing a mining po
 
 [Sumokoin](https://www.sumokoin.org) DIGITAL CASH - Privacy Without Compromise. Private • Untraceable • Decentralized • Fungible
 
-*Mining SUMO:* [How to mine Sumokoin (SUMO)](../mining/BLOC-GUI-Miner-mining-sumo.md)
+*Mining SUMO:* [How to mine Sumokoin (SUMO)](https://wiki.bloc.money/mining/BLOC-GUI-Miner-mining-sumo.md)
 
 [![BLOC GUI Miner Mining SUMO](images/BLOC-GUI-MINER/10-MINING-SUMO.png)](https://wiki.bloc.money/mining/bloc-gui-miner-mining-sumo/)
 
@@ -163,7 +163,7 @@ If you would like to contribute to this project by adding or editing a mining po
 
 [GRAFT](https://www.graft.network) GRAFT is a combination (PoW, PoS, DAG) blockchain and a platform that enables a truly decentralized payment network with real-time, universal payment acceptance.
 
-*Mining GRFT:* [How to mine Graft (GRFT)](../mining/BLOC-GUI-Miner-mining-graft.md)
+*Mining GRFT:* [How to mine Graft (GRFT)](https://wiki.bloc.money/mining/BLOC-GUI-Miner-mining-graft.md)
 
 [![BLOC GUI Miner Mining GRAFT](images/BLOC-GUI-MINER/12-MINING-GRAFT.png)](https://wiki.bloc.money/mining/bloc-gui-miner-mining-graft/)
 
@@ -171,7 +171,7 @@ If you would like to contribute to this project by adding or editing a mining po
 
 [Conceal Network](https://conceal.network) Conceal.Network is a decentralized blockchain bank, with deposits and investments paying interest rates, without involvement of financial institutions, powered by 100% open source code.
 
-*Mining CCX:* [How to mine Conceal Network (CCX)](../mining/BLOC-GUI-Miner-mining-ccx.md)
+*Mining CCX:* [How to mine Conceal Network (CCX)](https://wiki.bloc.money/mining/BLOC-GUI-Miner-mining-ccx.md)
 
 [![BLOC GUI Miner Mining CCX](images/BLOC-GUI-MINER/14-MINING-CCX.png)](https://wiki.bloc.money/mining/bloc-gui-miner-mining-ccx/)
 
@@ -179,7 +179,7 @@ If you would like to contribute to this project by adding or editing a mining po
 
 [Quantum Resistant Ledger](https://www.theqrl.org) The Quantum Resistant Ledger. Secure digital assets for longevity. Externally audited enterprise-grade blockchain platform secure against an attack from quantum computers.
 
-*Mining QRL:* [How to mine Quantum Resistant Ledger (QRL)](../mining/BLOC-GUI-Miner-mining-qrl.md)
+*Mining QRL:* [How to mine Quantum Resistant Ledger (QRL)](https://wiki.bloc.money/mining/BLOC-GUI-Miner-mining-qrl.md)
 
 [![BLOC GUI Miner Mining QRL](images/BLOC-GUI-MINER/13-MINING-QRL.png)](https://wiki.bloc.money/mining/bloc-gui-miner-mining-qrl/)
 
@@ -187,7 +187,7 @@ If you would like to contribute to this project by adding or editing a mining po
 
 [Lethean (LTHN)](https://lethean.io) allow users to quickly and seamlessly use VPN services by choosing an exit node that best suits their needs. Simply download the wallet, add Lethean, and visit the integrated VPN marketplace to begin using the VPN services.
 
-*Mining LTHN:* [How to mine Lethean (LTHN)](../mining/BLOC-GUI-Miner-mining-lethean.md)
+*Mining LTHN:* [How to mine Lethean (LTHN)](https://wiki.bloc.money/mining/BLOC-GUI-Miner-mining-lethean.md)
 
 [![BLOC GUI Miner Mining Lethean (LTHN)](images/BLOC-GUI-MINER/lethean-mining.png)](https://wiki.bloc.money/mining/bloc-gui-miner-mining-lethean)
 
@@ -195,7 +195,7 @@ If you would like to contribute to this project by adding or editing a mining po
 
 [X-CASH](https://www.x-network.io/xcash/) **(XCASH)** is public blockchain network & innovative digital asset powering the X network allowing the creation of customizable blockchains secured by a worldwide network.
 
-*Mining XCASH:* [How to mine X-CASH (XCASH) ](../mining/BLOC-GUI-Miner-mining-xcash.md)
+*Mining XCASH:* [How to mine X-CASH (XCASH) ](https://wiki.bloc.money/mining/BLOC-GUI-Miner-mining-xcash.md)
 
 [![BLOC GUI Miner Mining](images/BLOC-GUI-MINER/xcash-mining.png)](https://wiki.bloc.money/mining/bloc-gui-miner-mining-xcash)
 
@@ -203,7 +203,7 @@ If you would like to contribute to this project by adding or editing a mining po
 
 [TUBE](https://bittubeapp.com) **(TUBE)** BitTube reshapes how web monetization should work. Browse privately, ad free and support every publisher you visit. Your time powers the new attention economy without compromise. AirTime rewards you and the publisher while browsing the web. Reward any website, social account and creator with your time and donations
 
-*Mining TUBE:* [How to mine TUBE (TUBE) ](../mining/BLOC-GUI-Miner-mining-tube.md)
+*Mining TUBE:* [How to mine TUBE (TUBE) ](https://wiki.bloc.money/mining/BLOC-GUI-Miner-mining-tube.md)
 
 [![BLOC GUI Miner Mining](images/BLOC-GUI-MINER/tube-mining.png)](https://wiki.bloc.money/mining/bloc-gui-miner-mining-tube)
 
@@ -211,7 +211,7 @@ If you would like to contribute to this project by adding or editing a mining po
 
 [MASARI](https://getmasari.org) **(MSR)** is a privacy-centric innovative cryptocurrency that allows users to send money around the globe with low fees very quickly. Masari is a fast, fungible, secure, private and soon-to-be scalable currency.
 
-*Mining Masari (MSR) :* [How to mine Masari (MSR)](../mining/BLOC-GUI-Miner-mining-masari.md)
+*Mining Masari (MSR) :* [How to mine Masari (MSR)](https://wiki.bloc.money/mining/BLOC-GUI-Miner-mining-masari.md)
 
 [![BLOC GUI Miner Mining](images/BLOC-GUI-MINER/masari-mining.png)](https://wiki.bloc.money/mining/bloc-gui-miner-mining-masari)
 
@@ -219,7 +219,7 @@ If you would like to contribute to this project by adding or editing a mining po
 
 [IRIDIUM](https://ird.cash) **(IRD)** takes advantage of the technology behind CryptoNote by pulling together the best features that privacy coins can offer the world. 
 
-*Mining Iridium (IRD):* [How to mine Iridium (IRD)](../mining/BLOC-GUI-Miner-mining-iridium.md)
+*Mining Iridium (IRD):* [How to mine Iridium (IRD)](https://wiki.bloc.money/mining/BLOC-GUI-Miner-mining-iridium.md)
 
 [![BLOC GUI Miner Mining](images/BLOC-GUI-MINER/iridium-mining.png)](https://wiki.bloc.money/mining/bloc-gui-miner-mining-iridium)
 
@@ -227,7 +227,7 @@ If you would like to contribute to this project by adding or editing a mining po
 
 [ARQMA](https://arqma.com) **(ARQ)** the heart of ArQ-Network, which was created by crypto enthusiasts to connect merchants big to small with seamless transactions and minimal fees to zero ! ArQmA creates a full and brilliant currency exchange platform which aims to provide more advanced features than any previously developed protocol.
 
-*Mining ArQmA (ARQ):* [How to mine ArQmA (ARQ)](../mining/BLOC-GUI-Miner-mining-arqma.md)
+*Mining ArQmA (ARQ):* [How to mine ArQmA (ARQ)](https://wiki.bloc.money/mining/BLOC-GUI-Miner-mining-arqma.md)
 
 [![BLOC GUI Miner Mining](images/BLOC-GUI-MINER/arqma-mining.png)](https://wiki.bloc.money/mining/bloc-gui-miner-mining-arqma)
 
@@ -235,7 +235,7 @@ If you would like to contribute to this project by adding or editing a mining po
 
 [WOW](http://wownero.org) **(WOW)** Wownero is a fork of the cryptocurrency Monero with primary alterations.  Wownero’s emission is capped and supply is finite. Wownero is a fairly launched coin with no premine.
 
-*Mining Wonero (WOW):* [How to mine WOW (Wonero)](../mining/BLOC-GUI-Miner-mining-wonero.md)
+*Mining Wonero (WOW):* [How to mine WOW (Wonero)](https://wiki.bloc.money/mining/BLOC-GUI-Miner-mining-wonero.md)
 
 [![BLOC GUI Miner Mining](images/BLOC-GUI-MINER/wonero-mining.png)](https://wiki.bloc.money/mining/bloc-gui-miner-mining-wonero)
 
@@ -243,8 +243,8 @@ If you would like to contribute to this project by adding or editing a mining po
 
 BLOC GUI Miner comes with **XMR-STAK** and **XMRIG** already built-in, including configuration files for CPU and GPU mining in most of the cases.
 
-1. [xmr-stak](../mining/XMR-Stak-index.md) **v2.10.8**
-2. [xmrig](../mining/XMRIG-index.md) **v5.1.0**
+1. [xmr-stak](https://wiki.bloc.money/mining/XMR-Stak-index.md) **v2.10.8**
+2. [xmrig](https://wiki.bloc.money/mining/XMRIG-index.md) **v5.1.0**
 
 We suggest macOS users to always use XMRIG bundle if possible for a simple installation as XMR-STAK require extra library.
 
@@ -278,28 +278,28 @@ If you do not want to bother with this PRE-installation simply use XMR-RIG versi
 
 ## **Guides**
 
-- [What is the BLOC GUI Miner ?](../mining/BLOC-GUI-Miner.md)
-- [How to compile the BLOC GUI Miner](../mining/BLOC-GUI-Miner-Compile.md)
-- [How to install on Windows](../mining/BLOC-GUI-Miner-using.md#windows)
-- [How to install on macOS](../mining/BLOC-GUI-Miner-using.md#mac-os)
-- [How to install on Linux](../mining/BLOC-GUI-Miner-using.md#linux)
-- [How to use the BLOC GUI Miner to mine BLOC](../mining/BLOC-GUI-Miner-using.md)
-- [How to mine TurtleCoin (TRTL)](../mining/BLOC-GUI-Miner-mining-turtlecoin.md)
-- [How to mine Sumokoin (SUMO)](../mining/BLOC-GUI-Miner-mining-sumo.md)
-- [How to mine Ryo (RYO)](../mining/BLOC-GUI-Miner-mining-ryo.md)
-- [How to mine Quantum Resistant Ledger (QRL)](../mining/BLOC-GUI-Miner-mining-qrl.md)
-- [How to mine Monero (XMR)](../mining/BLOC-GUI-Miner-mining-monero.md)
-- [How to mine Loki (LOKI)](../mining/BLOC-GUI-Miner-mining-loki.md)
-- [How to mine Haven (XHV)](../mining/BLOC-GUI-Miner-mining-haven.md)
-- [How to mine Graft (GRFT)](../mining/BLOC-GUI-Miner-mining-graft.md)
-- [How to mine Lethean (LTHN)](../mining/BLOC-GUI-Miner-mining-lethean.md)
-- [How to mine Tube (TUBE)](../mining/BLOC-GUI-Miner-mining-tube.md)
-- [How to mine Masari (MSR)](../mining/BLOC-GUI-Miner-mining-masari.md)
-- [How to mine Iridium (IRD)](../mining/BLOC-GUI-Miner-mining-iridium.md)
-- [How to mine ArQma (ARQ)](../mining/BLOC-GUI-Miner-mining-arqma.md)
-- [How to mine Wonero (WOW)](../mining/BLOC-GUI-Miner-mining-wonero.md)
-- [How to mine Graft (XCASH)](../mining/BLOC-GUI-Miner-mining-xcash.md)
-- [How to mine Conceal Network (CCX)](../mining/BLOC-GUI-Miner-mining-ccx.md)
+- [What is the BLOC GUI Miner ?](https://wiki.bloc.money/mining/BLOC-GUI-Miner.md)
+- [How to compile the BLOC GUI Miner](https://wiki.bloc.money/mining/BLOC-GUI-Miner-Compile.md)
+- [How to install on Windows](https://wiki.bloc.money/mining/BLOC-GUI-Miner-using.md#windows)
+- [How to install on macOS](https://wiki.bloc.money/mining/BLOC-GUI-Miner-using.md#mac-os)
+- [How to install on Linux](https://wiki.bloc.money/mining/BLOC-GUI-Miner-using.md#linux)
+- [How to use the BLOC GUI Miner to mine BLOC](https://wiki.bloc.money/mining/BLOC-GUI-Miner-using.md)
+- [How to mine TurtleCoin (TRTL)](https://wiki.bloc.money/mining/BLOC-GUI-Miner-mining-turtlecoin.md)
+- [How to mine Sumokoin (SUMO)](https://wiki.bloc.money/mining/BLOC-GUI-Miner-mining-sumo.md)
+- [How to mine Ryo (RYO)](https://wiki.bloc.money/mining/BLOC-GUI-Miner-mining-ryo.md)
+- [How to mine Quantum Resistant Ledger (QRL)](https://wiki.bloc.money/mining/BLOC-GUI-Miner-mining-qrl.md)
+- [How to mine Monero (XMR)](https://wiki.bloc.money/mining/BLOC-GUI-Miner-mining-monero.md)
+- [How to mine Loki (LOKI)](https://wiki.bloc.money/mining/BLOC-GUI-Miner-mining-loki.md)
+- [How to mine Haven (XHV)](https://wiki.bloc.money/mining/BLOC-GUI-Miner-mining-haven.md)
+- [How to mine Graft (GRFT)](https://wiki.bloc.money/mining/BLOC-GUI-Miner-mining-graft.md)
+- [How to mine Lethean (LTHN)](https://wiki.bloc.money/mining/BLOC-GUI-Miner-mining-lethean.md)
+- [How to mine Tube (TUBE)](https://wiki.bloc.money/mining/BLOC-GUI-Miner-mining-tube.md)
+- [How to mine Masari (MSR)](https://wiki.bloc.money/mining/BLOC-GUI-Miner-mining-masari.md)
+- [How to mine Iridium (IRD)](https://wiki.bloc.money/mining/BLOC-GUI-Miner-mining-iridium.md)
+- [How to mine ArQma (ARQ)](https://wiki.bloc.money/mining/BLOC-GUI-Miner-mining-arqma.md)
+- [How to mine Wonero (WOW)](https://wiki.bloc.money/mining/BLOC-GUI-Miner-mining-wonero.md)
+- [How to mine Graft (XCASH)](https://wiki.bloc.money/mining/BLOC-GUI-Miner-mining-xcash.md)
+- [How to mine Conceal Network (CCX)](https://wiki.bloc.money/mining/BLOC-GUI-Miner-mining-ccx.md)
 
 ## **Compiling on Linux (Ubuntu)**
 
